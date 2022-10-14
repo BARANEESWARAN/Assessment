@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "Productname": "DdADA",
+      "Brand": "adasdasd",
+      "Quantity": "adasdasda",
+      "Price": "asasasasas",
+      "Actions": "asdasasdasdasd",
+      "notesId": 1,
+      "id": 1
+    },
+    {
+      "Productname": "qwwe",
+      "Brand": "adasdasd",
+      "Quantity": "adasdasda",
+      "Price": "asasasasas",
+      "Actions": "asdasasdasdasd",
+      "notesId": 2,
+      "id": 2
+    },
+    {
+      "Productname": "barani",
+      "Brand": "barani",
+      "Quantity": "barani",
+      "Price": "barani",
+      "Actions": "barani",
+      "notesId": 3,
+      "id": 3
+    },
+    {
+      "Productname": "DdADA",
+      "Brand": "adasdasd",
+      "Quantity": "adasdasda",
+      "Price": "asasasasas",
+      "Actions": "asdasasdasdasd",
+      "notesId": 4,
+      "id": 4
+    }
+  ]
+}
